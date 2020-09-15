@@ -6,7 +6,7 @@ import java.awt.*;
 public class Student {
     private int rollnum;
     private String name;
-    private static String college = "BBDIT";
+    private static String college;
 
     //Constructor
     Student(int r, String n) {
